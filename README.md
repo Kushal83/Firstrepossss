@@ -1,3 +1,2 @@
 # Firstrepossss
-Hi how r u 
-Commit
+Hi how r u   Commit
